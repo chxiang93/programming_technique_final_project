@@ -18,4 +18,4 @@
 
 ## 3. Exit Program
 
-![code img 1](assets/7.png)
+![code img 7](assets/7.png)
